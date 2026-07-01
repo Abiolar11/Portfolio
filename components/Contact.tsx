@@ -6,7 +6,7 @@ import { Reveal, SectionLabel } from "./Reveal";
 const socials = [
   { label: "Email", value: profile.email, href: `mailto:${profile.email}` },
   { label: "LinkedIn", value: "in/umarodulaja", href: profile.linkedin },
-  { label: "GitHub", value: "Abioar11", href: profile.github },
+  { label: "GitHub", value: "Abiolar11", href: profile.github },
   { label: "Phone", value: profile.phone, href: `tel:${profile.phone.replace(/[^0-9]/g, "")}` },
 ];
 

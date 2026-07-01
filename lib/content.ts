@@ -9,7 +9,7 @@ export const profile = {
   email: "odulaja1@gmail.com",
   phone: "832-614-7308",
   linkedin: "https://linkedin.com/in/umarodulaja",
-  github: "https://github.com/Abioar11",
+  github: "https://github.com/Abiolar11",
   resume: "/Umar-Odulaja-Resume.pdf",
   summary:
     "Senior Data Scientist with 8 years of experience designing, deploying, and scaling end-to-end machine learning, generative AI, and cloud-native data solutions across financial services, defense, and consumer technology. I architect LLM-powered products, predictive risk models, and production ETL pipelines that translate ambiguous business problems into measurable, multi-million-dollar outcomes — and I can explain any of it to an executive in the room. I hold an active Secret-level security clearance.",

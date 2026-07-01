@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:odulaja1@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/umarodulaja">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Abioar11">GitHub</a>
+  <a href="https://github.com/Abiolar11">GitHub</a>
 </p>
 
 > **🟢 Open to new opportunities** — Senior Data Scientist / ML Engineer / GenAI roles. Let's talk.
