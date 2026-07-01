@@ -1,34 +1,80 @@
-# Umar Odulaja — Portfolio
+<h1 align="center">Umar Odulaja</h1>
+<p align="center"><strong>Senior Data Scientist</strong> — turning ambiguous business problems into production AI that moves millions.</p>
 
-A stunning, enterprise-meets-edgy personal website for Umar Odulaja, Senior Data Scientist. Built with Next.js 15 (App Router), TypeScript, Tailwind CSS, and Framer Motion.
+<p align="center">
+  8+ years across <strong>Financial Services · Defense · Consumer Tech</strong> &nbsp;•&nbsp; Active Secret Clearance &nbsp;•&nbsp; Dallas–Fort Worth, TX
+</p>
 
-## Sections
-- **Hero** — animated gradient headline, live status, scrolling capability marquee
-- **About** — professional summary with animated stat highlights
-- **Career Journey** — scroll-animated timeline (JPMorgan Chase, Lockheed Martin ×2)
-- **Capabilities** — full skills toolkit, education, and certifications
-- **Selected Work** — interactive tilt cards for AI side projects
-- **Contact** — direct email CTA, social links, résumé download
+<p align="center">
+  <a href="mailto:odulaja1@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/umarodulaja">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Abioar11">GitHub</a>
+</p>
 
-## Run locally
+> **🟢 Open to new opportunities** — Senior Data Scientist / ML Engineer / GenAI roles. Let's talk.
+
+---
+
+## Who I am
+
+Senior Data Scientist with **8 years** designing, deploying, and scaling end-to-end machine learning, generative AI, and cloud-native data solutions. I've shipped LLM-powered products at a global bank, built the data platforms behind a **$500M** defense program, and started my career solving hardware problems on the factory floor. The throughline: I make complex systems legible — and profitable — and I can explain any of it to an executive in the room.
+
+## Impact at a glance
+
+| Metric | Outcome |
+| --- | --- |
+| **$4M+** | Annual loss drivers surfaced from unstructured customer text data |
+| **70%** | Faster analyst time-to-insight via a production LLM agent |
+| **90%** | Reduction in batch ETL processing time on F-35 sustainment data |
+| **35%** | Faster model deployment cycle time after instituting CI/CD standards |
+| **Multi-billion $** | Loan & lease portfolio protected by fraud/anomaly detection models |
+
+## What I do
+
+- **Generative AI & LLMs** — production agents, multi-agent systems, RAG, prompt engineering, embeddings & vector search, fine-tuning, MCP
+- **Machine Learning** — predictive risk & fraud models, deep learning, XGBoost, feature engineering, model validation & evaluation
+- **Data & Cloud** — Snowflake, AWS (SageMaker, Bedrock, Lambda, Glue, S3), Alteryx, PostgreSQL, Oracle
+- **MLOps** — Docker, Kubernetes, GitHub Actions, CI/CD, model deployment & monitoring
+- **Storytelling** — Tableau, Power BI, Streamlit, Plotly, executive-ready insight delivery
+
+## Selected experience
+
+- **JPMorgan Chase** — Senior Data Scientist *(2024–Present)* · production LLM agents, GenAI analytics, fraud/risk ML
+- **Lockheed Martin** — Senior Data Analyst *(2022–2024)* · F-35 data platforms, secure AWS, spend forecasting
+- **Lockheed Martin** — Manufacturing / Aeronautical Engineer *(2018–2022)* · F-16 engineering & process improvement
+
+## Credentials
+
+**Education:** M.S. Systems Engineering, Southern Methodist University · B.S. Mechanical Engineering (Math minor), Baylor University
+**Certifications:** AWS Certified AI Practitioner · DataCamp Certified Data Scientist · IBM Data Science Professional Certificate · Alteryx Designer Core · AI Fundamentals
+
+---
+
+## About this repository
+
+This repo is my personal portfolio website — a fast, animated, fully responsive single-page site.
+
+**Built with:** Next.js 15 (App Router) · TypeScript · Tailwind CSS · Framer Motion
+
+### Run locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open the printed URL (defaults to http://localhost:3000; picks the next free port if taken).
+Then open **http://localhost:3005**.
 
-## Editing content
-All copy lives in one place: [`lib/content.ts`](lib/content.ts). Update text, roles, projects, and links there — no component edits needed.
+### Editing content
 
-The résumé PDF is served from [`public/Umar-Odulaja-Resume.pdf`](public/Umar-Odulaja-Resume.pdf).
+All copy lives in one place — [`lib/content.ts`](lib/content.ts). Update text, roles, projects, and links there; no component edits needed.
 
-## Production build
+### Production build
 
 ```bash
 npm run build && npm run start
 ```
 
-## Stack
-Next.js · React 19 · TypeScript · Tailwind CSS · Framer Motion
+---
+
+<p align="center"><em>Have a problem worth solving? <a href="mailto:odulaja1@gmail.com">odulaja1@gmail.com</a></em></p>
