@@ -54,7 +54,14 @@ Senior Data Scientist with **8 years** designing, deploying, and scaling end-to-
 
 This repo is my personal portfolio website — a fast, animated, fully responsive single-page site.
 
-**Built with:** Next.js 15 (App Router) · TypeScript · Tailwind CSS · Framer Motion
+**Built with:** Next.js 15 (App Router) · TypeScript · Tailwind CSS · Framer Motion · Anthropic Claude
+
+### AI "Digital Twin" chat
+
+A floating assistant (bottom-right) answers recruiter questions about my career in the first person, powered by **Claude Sonnet** with streaming responses. It's grounded in my résumé and declines to invent details.
+
+- Server route: [`app/api/chat/route.ts`](app/api/chat/route.ts) · UI: [`components/DigitalTwin.tsx`](components/DigitalTwin.tsx)
+- Requires an Anthropic API key in the environment as **`API_KEY`** (kept in `.env`, which is git-ignored). When deploying (e.g. Vercel), set `API_KEY` in the host's environment variables.
 
 ### Run locally
 

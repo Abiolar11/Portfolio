@@ -6,6 +6,7 @@ import { Skills } from "@/components/Skills";
 import { Projects } from "@/components/Projects";
 import { Contact, Footer } from "@/components/Contact";
 import { ScrollProgress } from "@/components/ScrollProgress";
+import { DigitalTwin } from "@/components/DigitalTwin";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Projects />
       <Contact />
       <Footer />
+      <DigitalTwin />
     </main>
   );
 }
